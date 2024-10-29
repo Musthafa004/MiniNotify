@@ -20,7 +20,7 @@ To run this project locally, you’ll need Python and `plyer` installed. Follow 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/YourProjectName.git
+   git clone https://github.com/Musthafa004/MiniNotify.git
 Install Required Packages:
 bash
 Copy code
