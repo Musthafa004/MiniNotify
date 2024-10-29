@@ -1,40 +1,21 @@
-Project Phases :
-Phase 1 (MiniNotify) : Initial version with basic notification functionality.
-Phase 2 (Mini_notify): Added topic customization and improved UI.
-Phase 3 (NewsPopup): Final phase with additional news sources and optimized mini notifications feed.
+# 💫 About Me:
+I'm Ahamed Musthafa,<br>A data enthusiast with over 2.7 years of experience in ETL process,primarily using Oracle data integrator (ODI),Putty and Oracle SQL Developer. <br>My projects focus on optimizing data workflows and enhancing data availability. i'm also learning python to expand my backend development skills. <br>i'm excited to continue growing in this field and am always open to new projects and collaborations.
 
-Project Name :
-MiniNotify - Mini_notify - NewsPopup
 
-Project Description :
-MiniNotify is a Python-based notification application that fetches the latest news or updates on a given topic and displays them as system notifications. This is especially useful for users who want timely updates directly on their desktop.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahamed-musthafa-6729271b9/) 
 
-Features :
-- Fetches news based on specific topics
-- Displays notifications with concise headlines and descriptions
-- Allows customization of topics for user preference
-- Uses `plyer` for cross-platform notification support
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=musthafa004&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=musthafa004&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musthafa004&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Installation :
-To run this project locally, you’ll need Python and `plyer` installed. Follow these steps:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Musthafa004/MiniNotify.git
-Install Required Packages:
-bash
-Copy code
-pip install plyer
-Usage
-Run the application by executing:
+---
+[![](https://visitcount.itsvg.in/api?id=musthafa004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-bash
-Copy code
-python MiniNotify.py
-Sample Code Usage
-Explain how to modify or use parts of your code, if relevant.
-
-python
-Copy code
-from MiniNotify import fetch_news, show_notification
-fetch_news("Technology")
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
